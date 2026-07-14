@@ -15,3 +15,4 @@ Power BI · DAX · Weather API integration
 ## Screenshots
 <img width="1920" height="1038" alt="{74AD1E64-8222-4F48-AB88-784BCE223A4D} png" src="https://github.com/user-attachments/assets/1bc83224-ffe3-41ed-b510-484b3125167f" />
 <img width="1920" height="1040" alt="{F6F2F8DF-3559-4D7E-997F-89AD4C8379B0} png" src="https://github.com/user-attachments/assets/a2ab1686-3f78-438c-b173-7629ad45eae1" />
+<img width="1920" height="1039" alt="{F91710F0-370F-46C1-AB49-2CFDA7404059} png" src="https://github.com/user-attachments/assets/0e8e0a6f-b47c-46cf-9f33-cc3966e6e6c8" />
